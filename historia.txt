@@ -21,3 +21,16 @@ git commit -m "Actualizado documento a V2 y modificación de plantillas"
 git log >> log.txt
 git add .
 git commit -m "Registrar log.txt + Actualizar Historial"
+
+git switch Mejoras
+git rebase master
+git add .
+git rebase --continue
+git add historia.txt 
+git checkout --ours Procesos/ControlDeCambios/DP_ControldeCambios_Grupo1-v1.docx 
+git add Procesos/ControlDeCambios/DP_ControldeCambios_Grupo1-v1.docx 
+git rebase --continue
+git log >> log.txt
+git add .
+git commit -m "Actualizar log.txt después del rebase + Actualizar historia.txt"
+
