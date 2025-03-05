@@ -1,0 +1,23 @@
+commit 00afc7e99eda8dd41c93bedcd8ad7c2197a4183c
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:25:36 2025 +0100
+
+    Actualizado documento a V2 y modificación de plantillas
+
+commit a99bde7eb63562257c470340b24b35bd01d9dbfe
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:18:30 2025 +0100
+
+    Añadido PDF con propuestas de mejoras
+
+commit 04f141cc8949145991c20963c486cb475012812a
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:11:36 2025 +0100
+
+    Actualización historia 1
+
+commit fcd3c6fd854b9a084d056692555f74b23f7ac2c3
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:05:15 2025 +0100
+
+    Inicialización del repositorio con estructura y archivos base
