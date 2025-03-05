@@ -71,4 +71,9 @@ git commit -m "Actualizar log.txt con el historial de commits + Actualizar Histo
 
 git push origin master
 
+git branch Entrega-final
+git push -u origin Entrega-final
+git add .
+git commit -m "Actualizar Historia"
+
 
