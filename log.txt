@@ -56,3 +56,44 @@ Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
 Date:   Wed Mar 5 09:05:15 2025 +0100
 
     Inicialización del repositorio con estructura y archivos base
+commit 81f576a38cb896edd59019c43bc28362a5b3be58
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 10:06:22 2025 +0100
+
+    Actualizar log.txt después del rebase + Actualizar historia.txt
+
+commit ac7c2f68d43b93e65e4e7e7a4544bd37b90804e4
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:35:08 2025 +0100
+
+    Registrar log.txt + Actualizar Historial
+
+commit fa31fd6dc2e9eb0cf6a55c6ec5f08eba6f278cdb
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:25:36 2025 +0100
+
+    Actualizado documento a V2 y modificación de plantillas
+
+commit c4ee5ef19de9c9d0f47d326a219e6536f2867ea8
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:18:30 2025 +0100
+
+    Añadido PDF con propuestas de mejoras
+
+commit 19ea6dbf445a07fd27a97646b61236d67cba200d
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:39:27 2025 +0100
+
+    Cambio en el Word main
+
+commit 04f141cc8949145991c20963c486cb475012812a
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:11:36 2025 +0100
+
+    Actualización historia 1
+
+commit fcd3c6fd854b9a084d056692555f74b23f7ac2c3
+Author: Rubén Rey Souto <146338345+Ruubennn@users.noreply.github.com>
+Date:   Wed Mar 5 09:05:15 2025 +0100
+
+    Inicialización del repositorio con estructura y archivos base

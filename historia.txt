@@ -34,3 +34,10 @@ git log >> log.txt
 git add .
 git commit -m "Actualizar log.txt después del rebase + Actualizar historia.txt"
 
+git switch master
+git merge Mejoras
+git branch -d Mejoras
+git log >> log.txt
+git add .
+git commit -m "Borrado Mejoras + Actualizar log.txt + Actualizar historia.txt"
+
