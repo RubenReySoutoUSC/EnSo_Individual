@@ -41,3 +41,8 @@ git log >> log.txt
 git add .
 git commit -m "Borrado Mejoras + Actualizar log.txt + Actualizar historia.txt"
 
+git add .
+git commit -m "Borrado del PDF con propuestas de mejora"
+
+git tag Rev2
+
