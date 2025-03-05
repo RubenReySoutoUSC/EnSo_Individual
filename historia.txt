@@ -54,3 +54,8 @@ git add .
 git commit -m "Actualizar documento V3 incluyendo plantillas + etiquetado"
 git tag Rev3
 
+git remote add origin https://github.com/RubenReySoutoUSC/EnSo_Individual
+git push -u origin main
+git push --tags
+
+
