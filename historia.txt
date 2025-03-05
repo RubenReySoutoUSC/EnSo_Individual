@@ -9,3 +9,9 @@ git commit -m "Actualización historia 1"
 git switch master
 git add .
 git commit -m "Cambio en el Word main"
+
+git branch Mejoras
+git switch Mejoras
+git add .
+git commit -m "Añadido PDF con propuestas de mejoras"
+
