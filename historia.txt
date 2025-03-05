@@ -5,3 +5,7 @@ git commit -m "Inicialización del repositorio con estructura y archivos base"
 git tag Rev1
 git add .
 git commit -m "Actualización historia 1"
+
+git switch master
+git add .
+git commit -m "Cambio en el Word main"
