@@ -57,5 +57,7 @@ git tag Rev3
 git remote add origin https://github.com/RubenReySoutoUSC/EnSo_Individual
 git push -u origin main
 git push --tags
+git add .
+git commit -m "Actualización Historia con pasos del Paso 14"
 
 
