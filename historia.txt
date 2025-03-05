@@ -64,4 +64,11 @@ git pull origin master
 git add .
 git commit -m "Actualización Historia con pasos del Paso 15"
 
+git diff historia.txt
+git log >> log.txt
+git add .
+git commit -m "Actualizar log.txt con el historial de commits + Actualizar Historia"
+
+git push origin master
+
 
