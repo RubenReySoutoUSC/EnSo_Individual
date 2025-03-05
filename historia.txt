@@ -46,3 +46,11 @@ git commit -m "Borrado del PDF con propuestas de mejora"
 
 git tag Rev2
 
+git add .
+git commit -m "Actualizar documento a V3"
+
+git reset --hard HEAD-1
+git add .
+git commit -m "Actualizar documento V3 incluyendo plantillas + etiquetado"
+git tag Rev3
+
