@@ -15,3 +15,5 @@ git switch Mejoras
 git add .
 git commit -m "Añadido PDF con propuestas de mejoras"
 
+git add .
+git commit -m "Actualizado documento a V2 y modificación de plantillas"
